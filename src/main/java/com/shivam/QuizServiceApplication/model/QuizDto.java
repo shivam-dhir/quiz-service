@@ -1,4 +1,4 @@
-package com.telusko.quizservice.model;
+package com.shivam.QuizServiceApplication.model;
 
 import lombok.Data;
 
